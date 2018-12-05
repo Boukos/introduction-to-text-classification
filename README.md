@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TextXD/introduction-to-text-classification/master?filepath=workbook.ipynb)
+
 # Introduction to text classification
 
 ## Overview
