@@ -26,3 +26,5 @@ If you spot a problem with these materials, please make an issue describing the 
 * Geoff Bacon
 
 ![D-Lab logo](img/logo.jpg)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TextXD/introduction-to-text-classification/master)
