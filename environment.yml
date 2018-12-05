@@ -2,8 +2,7 @@ name: introduction-to-text-classification
 channels:
   - conda-forge
 dependencies:
-  - python
-  - numpy
+  - numpy 
   - pandas
   - matplotlib
   - seaborn
